@@ -4,7 +4,6 @@
   "description": "Scrolling display on Pi Zero, powered by Resin.io",
   "main": "display.js",
   "scripts": {
-    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
     "start": "node display.js"
   },
   "repository": {
