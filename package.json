@@ -4,7 +4,7 @@
   "description": "Scrolling display on Pi Zero, powered by Resin.io",
   "main": "display.js",
   "scripts": {
-    "start": "node display.js"
+    "start": "modprobe i2c-dev && node display.js"
   },
   "repository": {
     "type": "git",
