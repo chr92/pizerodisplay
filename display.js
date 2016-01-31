@@ -1,1 +1,1 @@
-setTimeout(function(){ console.log("Hello World!"); }, 1000000000);
+console.log("Hello World!");
