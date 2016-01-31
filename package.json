@@ -1,0 +1,24 @@
+{
+  "name": "pizerodisplay",
+  "version": "1.0.0",
+  "description": "Scrolling display on Pi Zero, powered by Resin.io",
+  "main": "display.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chr92/pizerodisplay.git"
+  },
+  "keywords": [
+    "pi",
+    "zero",
+    "display"
+  ],
+  "author": "Christiaan Hendriksen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chr92/pizerodisplay/issues"
+  },
+  "homepage": "https://github.com/chr92/pizerodisplay#readme"
+}
