@@ -1,7 +1,1 @@
-var userInput = "";
-
-console.log("Hello World!");
-
-while (userInput = "") {
-var userInput = readline();
-};
+setTimeout(function(){ console.log("Hello World!"); }, 1000000000);
